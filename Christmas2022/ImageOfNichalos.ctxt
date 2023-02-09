@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImageOfNichalos
+comment1.params=
+comment1.target=java.lang.String\ returnMessage()
+comment2.params=
+comment2.target=void\ drawTheWindow()
+comment3.params=msg
+comment3.target=javax.swing.JPanel\ createMessage(java.lang.String)
+comment4.params=
+comment4.target=javax.swing.JPanel\ createImages()
+comment5.params=
+comment5.target=javax.swing.JPanel\ createButtons()
+numComments=6
